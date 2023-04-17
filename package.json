@@ -1,0 +1,34 @@
+{
+  "name": "hw8-npm-practice",
+  "version": "1.0.0",
+  "description": "Выполнение ДЗ 8 по NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ar-Ti-21/HW8-NPM-practice.git"
+  },
+  "keywords": [
+    "HW8"
+  ],
+  "author": "Tarasenko Artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ar-Ti-21/HW8-NPM-practice/issues"
+  },
+  "homepage": "https://github.com/Ar-Ti-21/HW8-NPM-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "airbnb": "^0.0.2",
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "^2.8.7"
+  }
+}
